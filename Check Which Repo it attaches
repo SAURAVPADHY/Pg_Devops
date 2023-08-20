@@ -1,1 +1,3 @@
 git remote -v
+git rebase------------------> Bring all the files together
+git log --oneline --graph --------------> show files & branch in graphical format
